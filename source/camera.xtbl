@@ -22,11 +22,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.0</X>
+			<X>0.06</X>
 			<Y>1.175</Y>
 			<Z>0.7</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -55,11 +55,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
+			<X>0.06</X>
 			<Y>1.175</Y>
 			<Z>0.7</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -87,8 +87,8 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
 		<z_offset_adjust_up>0.0</z_offset_adjust_up>
@@ -119,11 +119,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -151,11 +151,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
+			<X>0.06</X>
 			<Y>1.175</Y>
 			<Z>0.7</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -183,11 +183,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -243,11 +243,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -275,11 +275,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -308,11 +308,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -341,11 +341,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.0</X>
-			<Y>1.775</Y>
+			<X>0.06</X>
+			<Y>1.8</Y>
 			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>-0.01</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -669,7 +669,7 @@
 			</far_dof>
 		<offset>
 			<X>0.1</X>
-			<Y>1.775</Y>
+			<Y>1.8</Y>
 			<Z>0.55</Z>
 			</offset>
 		<z_offset_adjust_up>0.0</z_offset_adjust_up>
