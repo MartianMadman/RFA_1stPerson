@@ -386,7 +386,7 @@
 <Action><ID>fall m3</ID><Animation><Filename>pc_rfl_ms3_fall.animx</Filename></Animation></Action>
 <Action><ID>nano push</ID><Animation><Filename>pc_rfl_nano_push.animx</Filename></Animation></Action>
 <Action><ID>nano shockwave</ID><Animation><Filename>pc_rfl_nano_stasis.animx</Filename></Animation></Action>
-<Action><ID>nano shell</ID><Animation><Filename>pc_rfl_nano_shell.animx</Filename></Animation></Action>
+<Action><ID>nano shell</ID><Animation><Filename>pc_rfl_nano_stasis.animx</Filename></Animation></Action>
 <Action><ID>nano commando</ID><Animation><Filename>pc_rfl_nano_bsrk.animx</Filename></Animation></Action>
 <Action><ID>idle b</ID><Animation><Filename>pc_rfl_idle_b.animx</Filename></Animation></Action>
 <Action><ID>idle a</ID><Animation><Filename>pc_rfl_idle_a.animx</Filename></Animation></Action>
@@ -502,7 +502,7 @@
 <Action><ID>fall m3</ID><Animation><Filename>pc_hmr_ms3_fall.animx</Filename></Animation></Action>
 <Action><ID>crouch equip</ID><Animation><Filename>pc_hmr_crch_drw.animx</Filename></Animation></Action>
 <Action><ID>nano push</ID><Animation><Filename>pc_hmr_nano_push.animx</Filename></Animation></Action>
-<Action><ID>nano shell</ID><Animation><Filename>pc_hmr_nano_shell.animx</Filename></Animation></Action>
+<Action><ID>nano shell</ID><Animation><Filename>pc_hmr_nano_stasis.animx</Filename></Animation></Action>
 <Action><ID>nano shockwave</ID><Animation><Filename>pc_hmr_nano_stasis.animx</Filename></Animation></Action>
 <Action><ID>idle a</ID><Animation><Filename>pc_hmr_idle_b.animx</Filename></Animation></Action>
 <Action><ID>idle b</ID><Animation><Filename>pc_hmr_idle_b.animx</Filename></Animation></Action>
@@ -679,7 +679,7 @@
 <Action><ID>fall m3</ID><Animation><Filename>pc_dw_ms3_fall.animx</Filename></Animation></Action>
 <Action><ID>nano shockwave</ID><Animation><Filename>pc_dw_nano_stasis.animx</Filename></Animation></Action>
 <Action><ID>nano push</ID><Animation><Filename>pc_dw_nano_push.animx</Filename></Animation></Action>
-<Action><ID>nano shell</ID><Animation><Filename>pc_dw_nano_shell.animx</Filename></Animation></Action>
+<Action><ID>nano shell</ID><Animation><Filename>pc_hmr_nano_stasis.animx</Filename></Animation></Action>
 <Action><ID>idle a</ID><Animation><Filename>pc_dw_idle_a.animx</Filename></Animation></Action>
 <Action><ID>idle b</ID><Animation><Filename>pc_dw_idle_b.animx</Filename></Animation></Action>
 <Action><ID>idle c</ID><Animation><Filename>pc_dw_idle_c.animx</Filename></Animation></Action>
