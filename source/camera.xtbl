@@ -196,8 +196,8 @@
 		</camera_view>
 	<camera_view>
 		<Name>ragdoll</Name>
-		<change_view_time>0</change_view_time>
-		<distance>0.0</distance>
+		<change_view_time>200</change_view_time>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -215,9 +215,9 @@
 			</offset>
 		<z_offset_adjust_up>0</z_offset_adjust_up>
 		<z_offset_adjust_down>0</z_offset_adjust_down>
-		<out_time_override>1000</out_time_override>
-		<dist_adjust_up>0</dist_adjust_up>
-		<dist_adjust_down>0</dist_adjust_down>
+		<out_time_override>1500</out_time_override>
+		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_down>-0.01</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
 		</camera_view>
