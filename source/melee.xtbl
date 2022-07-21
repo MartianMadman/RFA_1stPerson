@@ -275,7 +275,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -374,7 +374,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -697,7 +697,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -763,7 +763,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -826,8 +826,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MinAttackDist>1.0</MinAttackDist>
+					<MaxAttackDist>2.5</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>100</DefaultDamage>
@@ -951,8 +951,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MinAttackDist>3</MinAttackDist>
+					<MaxAttackDist>4</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>250</DefaultDamage>
@@ -1017,7 +1017,7 @@
 					</SecondaryImpact>
 				<AI>
 					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MaxAttackDist>4</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>500</DefaultDamage>
@@ -1082,7 +1082,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -1146,7 +1146,7 @@
 					<EffectForwardOffset>1.5</EffectForwardOffset>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -1207,7 +1207,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>1.0</MinAttackDist>
 					<MaxAttackDist>2.5</MaxAttackDist>
 					</AI>
 				<Damage>
@@ -1271,8 +1271,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MinAttackDist>2.5</MinAttackDist>
+					<MaxAttackDist>4.0</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>500</DefaultDamage>
@@ -1335,8 +1335,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MinAttackDist>2.5</MinAttackDist>
+					<MaxAttackDist>4.0</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>0</DefaultDamage>
@@ -1397,8 +1397,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
-					<MaxAttackDist>3</MaxAttackDist>
+					<MinAttackDist>2.5</MinAttackDist>
+					<MaxAttackDist>4</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>250</DefaultDamage>
@@ -1458,7 +1458,7 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>0</MinAttackDist>
+					<MinAttackDist>0.0</MinAttackDist>
 					<MaxAttackDist>1.5</MaxAttackDist>
 					</AI>
 				<Damage>
