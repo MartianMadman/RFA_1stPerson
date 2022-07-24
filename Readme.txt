@@ -17,8 +17,3 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Fix many missing visual features.
 -Restore melee auto-targeting.
 -Adjust turret view.
-
-\Installation/
-For basic users, open the Pre-Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
-
-For advanced users you may pack the .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Raw contains the modified .xtbl files of this mod.
