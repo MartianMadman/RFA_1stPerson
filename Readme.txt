@@ -14,6 +14,7 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 
 \Changelog v2/
 -Change many player animations to make better use of player model in view.
+-Adjust lod_properties.xtbl to potentially fix more lights not working.
 -Fix many missing visual features.
 -Restore melee auto-targeting.
 -Adjust turret view.
