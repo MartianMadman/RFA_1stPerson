@@ -19,4 +19,4 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Adjust turret view.
 
 \Issues/
--Unwanted fov scaling for 4:3/5:4 aspect ratio. To fix this, launch game in 16:9 and then switch to 4:3 resolutions.
+-Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
