@@ -5,8 +5,8 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Add casts_shadows flag to almost all of items_3d.xtbl and gameplay_properties.xtbl.
 -Remove melee finisher animations because they do not work well with 1st person cam.
 -Fix potential startup crash on publicbeta version of RFA.
+-Prevent npcs disappearing when near camera.
 -Increase draw distance of lights and lods.
--Fix npcs disappearing when near camera.
 -Remove dodge forward animation.
 -Remove melee auto-targeting.
 -Remove player jumping delay.
