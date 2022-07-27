@@ -1035,7 +1035,7 @@
 </Group>
 <Group><group>Unicorn</group>
 <States>
-<State><ID>sprint</ID><Animation><Filename>pc_uni_spnt.animx</Filename></Animation></State>
+<State><ID>sprint</ID><Animation><Filename>pc_spray_fn_aim_wlk.animx</Filename></Animation></State>
 <State><ID>charged</ID><Animation><Filename>pc_uni_sht.animx</Filename></Animation></State>
 </States>
 <Actions>
