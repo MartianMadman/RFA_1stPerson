@@ -12,7 +12,7 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Remove player jumping delay.
 -Add 1st person to turrets.
 
-\Changelog v2/
+\Changelog v2.0.0/
 -Change many player animations to make better use of player model in view.
 -Adjust lod_properties.xtbl to potentially fix more lights not working.
 -Fix many missing visual features.
