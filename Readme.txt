@@ -19,5 +19,8 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Restore melee auto-targeting.
 -Adjust turret view.
 
+\Changelog v2.0.1
+-Change shotgun and charge launcher player animations
+
 \Issues/
 -Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
