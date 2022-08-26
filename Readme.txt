@@ -19,7 +19,7 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Restore melee auto-targeting.
 -Adjust turret view.
 
-\Changelog v2.0.1
+\Changelog v2.0.1/
 -Change shotgun and charge launcher player animations
 
 \Issues/
