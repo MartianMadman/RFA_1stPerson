@@ -938,7 +938,7 @@ Overridded by Ai_heavy_vehicle_always_cower_chance - if that is true,  this will
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Camera_melee_turn_distance</Name>
-		<Value>3.75</Value>
+		<Value>0.0</Value>
 		<Description>How far away an attacker can be for it to considered a melee target.</Description>
 		<_Editor>
 			<Category>Melee</Category>
