@@ -22,7 +22,7 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 \Changelog v2.1.0/
 -Remove melee auto-targeting due to issues with it causing players head in view.
 -Change shotgun, dual pistols, and charge launcher player animations.
--Sightly increase crouch to stand view speed.
+-Sightly increase crouch to stand view switch speed.
 -Improve player model clipping.
 
 \Issues/
