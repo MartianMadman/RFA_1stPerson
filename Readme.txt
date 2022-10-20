@@ -25,6 +25,7 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Slightly increase crouch to stand view switch speed.
 -Slightly reduce large light draw distance.
 -Improve player model clipping.
+-Increase fov for walkers.
 -Adjust camera positions.
 
 \Issues/
