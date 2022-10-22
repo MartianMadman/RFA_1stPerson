@@ -28,5 +28,10 @@ My own personal attempt at making a 1st person mod for RFA. Makes a few other ch
 -Increase fov for walkers.
 -Adjust camera positions.
 
+\Installation/NOT FOR GITHUB!
+Open the folder titled Packed and copy misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory of your RFA installation. Replace existing files when asked.
+
+Advanced users can pack the .vpp_pc files themselves for use with other mods or personal tweaks. The folder titled Source contains the modified .xtbl files of this mod.
+
 \Issues/
 -Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
